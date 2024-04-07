@@ -6,7 +6,8 @@
             clone-depth="1" />
  <!--Tree -->
  <project path="device/samsung/gta4l" name="DarkLord2099/android_device_samsung_gta4l" remote="github" revision="crdoid-13" />
-<!--Tree_common -->
+
+ <!--Tree_common -->
 <Project path="device/samsung/gta4l-common" name="DarkLord2099/android_device_samsung_gta4l-common" revision="crdoid-13" />
  
  <!--Kernel -->
