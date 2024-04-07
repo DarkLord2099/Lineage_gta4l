@@ -11,7 +11,7 @@
 <Project path="device/samsung/gta4l-common" name="DarkLord2099/device_samsung_gta4l-common" revision="crdoid-13" />
  
  <!--Kernel -->
- <project path="kernel/samsung/sm6115" name="DarkLord2099/kernel_samsung_sm6115" remote="github" revision="lineage-20" />
+ <project path="kernel/samsung/gta4l" name="DarkLord2099/kernel_samsung_gta4l" remote="github" revision="lineage-20" />
  
  <!--Vendor -->
  <project path="vendor/samsung_gta4l" name="DarkLord2099/vendor_samsung_gta4l" remote="github" revision="lineage-20" />
