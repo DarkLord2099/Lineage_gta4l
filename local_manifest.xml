@@ -8,7 +8,7 @@
  <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="DarkLord2099" revision="matrixx-14" />
 
  <!--Kernel -->
- <project path="kernel/samsung/gta4l" name="android_kernel_samsung_gta4l" remote="DarkLord2099" revision="14-ksu" />
+ <project path="kernel/samsung/gta4l" name="android_kernel_samsung_gta4l" remote="DarkLord2099" revision="14.0-ksu" />
 
  <!--Vendor -->
  <project path="vendor/samsung/gta4l" name="proprietary_vendor_samsung_gta4l" remote="DarkLord2099" revision="lineage-21" />
