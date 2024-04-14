@@ -23,4 +23,6 @@
  <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="DarkLord2099" revision="matrixx-14" />
  <project path="vendor/samsung/gta4l-common" name="proprietary_vendor_samsung_gta4l-common" remote="DarkLord2099" revision="lineage-21" />
 
+ <!-- Hardware -->
+ <project path="hardware/samsung" name="android_hardware_samsung" remote="DarkLord2099" revision="lineage-21" />
 </manifest>
