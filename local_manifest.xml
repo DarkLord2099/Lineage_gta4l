@@ -24,5 +24,7 @@
  <project path="vendor/samsung/gta4l-common" name="proprietary_vendor_samsung_gta4l-common" remote="DarkLord2099" revision="lineage-20" />
 
  <!-- Hardware -->
- <project path="hardware/samsung" name="android_hardware_samsung" remote="DarkLord2099" revision="lineage-21" />
+ <project path="hardware/samsung" name="android_hardware_samsung" remote="DarkLord2099" revision="lineage-20" />
+    <!-- fix -->
+ <project path="vendor/qcom/opensource/vibrato" name="android_vendor_qcom_opensource_vibrato" remote="DarkLord2099" revision="lineage-20" />
 </manifest>
