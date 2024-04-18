@@ -8,10 +8,10 @@
  <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="DarkLord2099" revision="matrixx-14" />
 
  <!--Kernel -->
- <project path="kernel/samsung/sm6115" name="android_kernel_samsung_sm6115" remote="DarkLord2099" revision="lineage-21" />
+ <project path="kernel/samsung/sm6115" name="android_kernel_samsung_sm6115" remote="DarkLord2099" revision="lineage-20" />
 
  <!--Vendor -->
- <project path="vendor/samsung/gta4l" name="proprietary_vendor_samsung_gta4l" remote="DarkLord2099" revision="lineage-21" />
+ <project path="vendor/samsung/gta4l" name="proprietary_vendor_samsung_gta4l" remote="DarkLord2099" revision="lineage-20" />
 
  <!--Other HALs-->
    
@@ -21,7 +21,7 @@
 
  <!-- Common -->
  <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="DarkLord2099" revision="matrixx-14" />
- <project path="vendor/samsung/gta4l-common" name="proprietary_vendor_samsung_gta4l-common" remote="DarkLord2099" revision="lineage-21" />
+ <project path="vendor/samsung/gta4l-common" name="proprietary_vendor_samsung_gta4l-common" remote="DarkLord2099" revision="lineage-20" />
 
  <!-- Hardware -->
  <project path="hardware/samsung" name="android_hardware_samsung" remote="DarkLord2099" revision="lineage-21" />
