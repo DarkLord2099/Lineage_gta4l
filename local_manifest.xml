@@ -22,7 +22,7 @@
  <!-- Replacements -->
    
  <!-- Prebuilts -->
-<project path="prebuilts/clang/host/linux-x86" name="yaosp/prebuilts_clang_host_linux-x86" remote="gitlab" revision="fourteen"
+<project path="clang/host/linux-x86" name="yaosp/prebuilts_clang_host_linux-x86" remote="gitlab" revision="fourteen"
  <remove-project name="yaosp/prebuilts_clang_host_linux-x86"/>
 
  <!-- Common -->
