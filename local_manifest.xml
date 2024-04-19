@@ -23,6 +23,7 @@
  <project path="device/samsung/gta4l-common" name="android_device_samsung_gta4l-common" remote="DarkLord2099" revision="crdroid-13" />
  <project path="vendor/samsung/gta4l-common" name="proprietary_vendor_samsung_gta4l-common" remote="DarkLord2099" revision="lineage-20" />
 
-   <!-- Hardware -->
- <project path="hardware/samsung" name="android_hardware_samsung" remote="DarkLord2099" revision="lineage-20" />
+<!-- Prebuilts -->
+<remove-project name="yaosp/prebuilts_clang_host_linux-x86"/>
+<project path="prebuilts/clang/host/linux-x86" name="yaosp/prebuilts_clang_host_linux-x86" remote="gitlab" revision="fourteen"
 </manifest>
