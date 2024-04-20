@@ -2,8 +2,7 @@
 <manifest>
    <remote name="DarkLord2099"
             fetch="https://github.com/DarkLord2099"
-            clone-depth="1" />
-    <!--Credit to zhengz/rik0612c for Sources and keeping our device alive -->                            
+            clone-depth="1" />                 
  <!--Tree -->
  <project path="device/samsung/gta4l" name="android_device_samsung_gta4l" remote="DarkLord2099" revision="crdroid-14" />
 
